@@ -12,6 +12,6 @@ setup(
     include_package_data=True,
     install_requires=[
         "fastapi==0.52.0",
-        "uvicorn==0.11.3"
+        "uvicorn==0.11.7"
     ]
 )
