@@ -11,7 +11,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
-        "fastapi==0.52.0",
+        "fastapi==0.65.2",
         "uvicorn==0.11.3"
     ]
 )
